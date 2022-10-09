@@ -6,9 +6,9 @@ LICENSE: [MIT](/license.md)
 
 ---
 
-## Соджержание:
+## Содержание:
 ### 1. Что такое [**GIT**](/pages/What_is_GIT.md)?
-### 2. Возмождности [**GIT**](/pages/GIT_features.md)
+### 2. Возможности [**GIT**](/pages/GIT_features.md)
 ### 3. Команда [**git clone**](/pages/clone.md)
 ### 4. Команда [**git status**](/pages/status.md)
 ### 5. Команда [**git push**](/pages/push.md)
